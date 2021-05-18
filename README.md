@@ -1,6 +1,6 @@
 # fyle
 
-# Steps to run
+# Steps to run loacally
 
 1. Run node Database Queries/ maketables.js
 2. Run node Database Queries/ insertBanks.js
@@ -8,6 +8,8 @@
 4. Run node app.js
 5. cd client
 6. npm start
+
+Configure database credentials in .env file
 
 
 # Database Structure
